@@ -33,6 +33,5 @@ Nese deshirojme te enkriptojme ndonje fjale tjeter vetem perseritim metoden e nj
 </br>
 <img src="/testimet/test3.png"></img>
 </br>
-<b>Testimi per mesazh bosh apo te korruptuar</b>
+<b>Testimi per mesazh bosh</b>
 </br>
-<img src="/testimet/mesazhbosh.png"></img>
