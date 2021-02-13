@@ -1,6 +1,8 @@
-# Siguria ne Internet
+# Siguria ne Internet (Grupi 37)
 Krijimi i nje programi per te enkriptuar te dhenat me algoritmin AES
 </br>
+# Perdorimi
+Per te krijuar kete program kemi perdorur Tkinter qe eshte interfejs GUI i gjuhes programuese Python.
 
 # Funksionialiteti
 
