@@ -54,7 +54,7 @@ def put():
 
     cipher.set(f'Mesazhi i enkriptuar: {ciphertext}')
     if not plaintext:
-        plain.set("Mesazhi eshte bosh apo i korruptuar!")
+        plain.set("Mesazhi eshte bosh!")
     else:
         plain.set(f'Mesazhi i dekriptuar: {plaintext}')
 
