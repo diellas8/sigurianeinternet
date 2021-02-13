@@ -13,23 +13,25 @@ Per te ekzekutuar kete program na duhet te insalojme Python ne makinen tone. Na 
 
 # Testimi
 Pas hapjes se programit do na shfaqet dritarja si ne foton me poshte:
+</br>
 <img src="/testimet/download.png"></img>
 </br>
 
 Pasi qe zgjedhim njerin prej opsioneve per enkriptim dhe shenojme mesazhin, nese shtypim butonin <b>Enkripto</b> atehere do te na shfaqet mesazhi i enkriptuar me AES.
 Nese nuk shenojme asnje mesazh apo mesazhi i shenuar ne hapesiren perkatese nuk eshte string atehere do te na shfaqet error-i i cili na tregon qe hapesira eshte boshe apo mesazhi eshte i korruptuar.
 Nese deshirojme te enkriptojme ndonje fjale tjeter vetem perseritim metoden e njejte dhe mesazhi i enkriptuar me heret do te zevendesohet me mesazhin e ri njesoj si ne fotot me poshte:
+</br>
 <b>Testimi i pare</b>
 </br>
 <img src="/testimet/test1.png"></img>
 </br>
 <b>Testimi i dyte</b>
 </br>
-<img src="/testimet/test2.png></img>
+<img src="/testimet/test2.png"></img>
 </br>
 <b>Testimi i trete</b>
 </br>
-<img src="/testimet/test3.png></img>
+<img src="/testimet/test3.png"></img>
 </br>
 <b>Testimi per mesazh bosh apo te korruptuar</b>
 </br>
